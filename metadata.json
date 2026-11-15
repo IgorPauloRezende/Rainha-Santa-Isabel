@@ -1,0 +1,8 @@
+{
+  "name": "Paróquia Rainha Santa Isabel · Casa Verde, São Paulo",
+  "description": "Site institucional da Paróquia Rainha Santa Isabel, Casa Verde, SP. Arquidiocese de São Paulo, Região Santana, Decanato São Judas Tadeu. Fundada em 1967.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
